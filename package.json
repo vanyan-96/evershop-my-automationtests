@@ -1,0 +1,22 @@
+{
+  "name": "evershop-my-automationtests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanyan-96/evershop-my-automationtests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanyan-96/evershop-my-automationtests/issues"
+  },
+  "homepage": "https://github.com/vanyan-96/evershop-my-automationtests#readme",
+  "description": ""
+}
